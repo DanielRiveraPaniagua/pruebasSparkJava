@@ -84,7 +84,7 @@
 				<appName>spark-example-danielrivera</appName>
 				<processTypes>
 					<!-- Tell Heroku how to launch your application -->
-					<web>java -jar ./target/pruebasSparkJava-0.0.1-jar-with-dependencies.jar</web>
+					<web>java -jar ./target/pruebasSparkJava-0.0.1-SNAPSHOT-jar-with-dependencies.jar</web>
 				</processTypes>
 			</configuration>
 		</plugin>
